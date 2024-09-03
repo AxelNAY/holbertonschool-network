@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+#Script that displays listening ports
+
+ss -tulnmp
